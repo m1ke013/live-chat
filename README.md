@@ -23,10 +23,7 @@ Check the congig/websockets.php
 Step 5
 >   composer require pusher/pusher-php-server
 
-Step 6
->   Run the websocket
-
-
+Step 6 Run the websocket
 >   php artisan queue:work
 
 
