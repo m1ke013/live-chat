@@ -25,7 +25,11 @@ Step 5
 
 Step 6
 >   Run the websocket
->   php artisan queue:work 
+
+
+>   php artisan queue:work
+
+
 >   php artisan websockets:serve
 
 
